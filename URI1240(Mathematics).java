@@ -1,5 +1,5 @@
 //Tristan Dufault 2019-06-29
-
+//Problem can found at link: https://www.urionlinejudge.com.br/judge/en/problems/view/1240
 
 import java.io.BufferedInputStream;
 import java.util.Scanner;
