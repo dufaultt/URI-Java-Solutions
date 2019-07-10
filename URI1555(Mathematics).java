@@ -1,3 +1,6 @@
+//Tristan Dufault 2019-07-01
+//Problem can be found at link: https://www.urionlinejudge.com.br/judge/en/problems/view/1555
+
 package src;
 
 import java.io.BufferedInputStream;
