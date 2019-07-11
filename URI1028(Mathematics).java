@@ -1,4 +1,5 @@
-##Tristan Dufault 2019-07-01
+//Tristan Dufault 2019-07-01
+//Problem can be found at: https://www.urionlinejudge.com.br/judge/en/problems/view/1028
 
 import java.io.BufferedInputStream;
 import java.math.BigInteger;
