@@ -35,7 +35,7 @@ public class Main
 				if(Letter2 != Letter1)
 				{
 					flag = false;
-				}
+				} 
 				
 			}
 			
