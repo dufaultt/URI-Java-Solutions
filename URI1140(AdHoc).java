@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.io.BufferedInputStream;
+import java.io.BufferedInputStream; 
 
 public class Main 
 {
