@@ -34,7 +34,7 @@ public class Main
 				Letter2 = Character.toLowerCase(Letter2);
 				if(Letter2 != Letter1)
 				{
-					flag = false;
+					flag = false; 
 				} 
 				
 			}
